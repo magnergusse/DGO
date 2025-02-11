@@ -7,10 +7,8 @@ Nesta Unidade Curricular, foram explorados os conceitos de design generativo e o
 A unidade é dividida em três fases principais:
 
 Fase 0 - Modelação 3D Assistida por Computador (CAD);
-
 Fase 1 - Estratégias Computacionais em Modelação 3D;
-
-Fase 2 - Otimização Não-Linear em Engenharia;
+Fase 3 - Otimização Não-Linear em Engenharia;
 
 Ao longo do semestre, os projetos desenvolvidos pelos estudantes são documentados e apresentados em um <a href="https://dgogrupo.wixsite.com/my-site-2" target="_blank" rel="noopener noreferrer">website</a>, permitindo a avaliação contínua do progresso. Este site serve como um portefólio online que demonstra a evolução do trabalho realizado durante as três fases do curso.
 
